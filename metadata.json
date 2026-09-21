@@ -1,0 +1,6 @@
+{
+  "name": "Annapurna",
+  "description": "Direct farm-to-table platform connecting verified organic farmers with consumers with zero intermediaries and full price transparency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
