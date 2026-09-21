@@ -12,17 +12,6 @@
 
 ---
 
-## App Preview & Screenshots
-
-<div align="center">
-  <img src="assets/verification.jpg" width="28%" alt="Farmer Verification" /> &nbsp;&nbsp;
-  <img src="assets/dashboard.jpg" width="28%" alt="Dashboard" /> &nbsp;&nbsp;
-  <img src="assets/transport.jpg" width="28%" alt="Transport Tracking" />
-</div>
-
-*(Note: Place your screenshot image files inside an assets folder in your root directory to render them correctly).*
-
----
 
 ## Core Feature: Farmer Verification System
 
