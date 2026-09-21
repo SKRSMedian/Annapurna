@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # Annapurna - Direct Farm-to-Consumer & Rural Intelligence Platform
@@ -72,3 +73,7 @@ Follow these steps to run the application locally on your machine:
 
 **Prerequisites:** Ensure you have Node.js installed.
 
+=======
+# Annapurna
+Annapurna is a comprehensive, mobile-first agricultural platform built for the Smart India Hackathon (SIH) to address the core problem of agricultural market inefficiencies: how multiple intermediaries reduce farmers' earnings while artificially driving up consumer prices.
+>>>>>>> dfd7e3135d6399e21607a7b1587730a25718f7b9
