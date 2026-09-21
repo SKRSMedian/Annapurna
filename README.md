@@ -60,7 +60,7 @@ To maintain absolute marketplace integrity and ensure that only genuine agricult
 ## App Preview & Screenshots
 
 <div align="center">
-  <img src="assets/verification.jpg" width="28%" alt="Farmer Verification" /> &nbsp;&nbsp;
+  <img src="assets/Verification.jpg" width="28%" alt="Farmer Verification" /> &nbsp;&nbsp;
   <img src="assets/dashboard.jpg" width="28%" alt="Dashboard" /> &nbsp;&nbsp;
   <img src="assets/Vehicle_tracking.jpg" width="28%" alt="Transport Tracking" />
   <img src="assets/Driver_info.jpg" width="28%" alt="Driver Information" />
